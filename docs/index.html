@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WellPumpIndex — Deep Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+  <meta name="description" content="Calculate exact submersible deep well pump Total Dynamic Head (TDH), diaphragm pressure tank drawdown gallons, and 230V copper wire gauge for Goulds, Grundfos, Franklin, Pentair, and Well-X-Trol systems.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/well-pump-index/">
+  <link rel="alternate" type="application/rss+xml" title="WellPumpIndex RSS Feed" href="https://hanifsalman11.github.io/well-pump-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-cyan-500 text-slate-950 px-2 py-0.5 rounded font-black">WELL</span>PumpIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=4%2BInch%2BStainless%2BSteel%2BSubmersible%2BDeep%2BWell%2BPump%2B230V%2BPressure%2BTank&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Deep Well Pumps & Pressure Tanks on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Deep Well Pump TDH, Pressure Tank & Wire Sizing Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your well depth or submersible pump model below to calculate Total Dynamic Head (TDH), 40/60 PSI tank drawdown gallons, and Franklin AIM 230V wire gauge.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search well depth, pump or tank (e.g. 250 ft Well, Goulds 3/4 HP, Well-X-Trol WX-250, Grundfos, 44 Gallon...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-cyan-500">
+      </div>
+    </div>
+
+    <div id="wellGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="goulds-18gs15412-15-hp-18-gpm-high-flow-well-pump-tdh-tank-wire-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">1.5 HP | 18 GPM</span>
+            <span class="text-xs text-slate-400">352 ft TDH | 86-Gal Tank</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Goulds 18GS15412 1.5 HP 18 GPM High-Flow Well Pump Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact Total Dynamic Head (352 ft TDH), pressure tank drawdown (23.2 gal on 86-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Goulds 18GS15412 1.5 HP 18 GPM High-Flow Well Pump.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate TDH, Tank & Wire Size →</span>
+        </a>
+        <a href="goulds-10gs10412-10-hp-10-gpm-deep-well-pump-tdh-tank-wire-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">1.0 HP | 10 GPM</span>
+            <span class="text-xs text-slate-400">394 ft TDH | 44-Gal Tank</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Goulds 10GS10412 1.0 HP 10 GPM Deep Well Pump Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact Total Dynamic Head (394 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Goulds 10GS10412 1.0 HP 10 GPM Deep Well Pump.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate TDH, Tank & Wire Size →</span>
+        </a>
+        <a href="goulds-10gs07412-34-hp-10-gpm-4-inch-submersible-tdh-tank-wire-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">0.75 HP | 10 GPM</span>
+            <span class="text-xs text-slate-400">309 ft TDH | 44-Gal Tank</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Goulds 10GS07412 3/4 HP 10 GPM 4-Inch Submersible Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact Total Dynamic Head (309 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Goulds 10GS07412 3/4 HP 10 GPM 4-Inch Submersible.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate TDH, Tank & Wire Size →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 WellPumpIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('wellGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

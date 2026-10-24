@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "well_name": "Goulds 10GS07412 3/4 HP 10 GPM 4-Inch Submersible",
+    "slug": "goulds-10gs07412-34-hp-10-gpm-4-inch-submersible-tdh-tank-wire-calculator",
+    "title": "Goulds 10GS07412 3/4 HP 10 GPM 4-Inch Submersible TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (309 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Goulds 10GS07412 3/4 HP 10 GPM 4-Inch Submersible.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 309,
+    "tank_gal": 44,
+    "date": "2026-10-24"
+  },
+  {
+    "well_name": "Goulds 10GS10412 1.0 HP 10 GPM Deep Well Pump",
+    "slug": "goulds-10gs10412-10-hp-10-gpm-deep-well-pump-tdh-tank-wire-calculator",
+    "title": "Goulds 10GS10412 1.0 HP 10 GPM Deep Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (394 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Goulds 10GS10412 1.0 HP 10 GPM Deep Well Pump.",
+    "hp": 1.0,
+    "gpm": 10,
+    "tdh_ft": 394,
+    "tank_gal": 44,
+    "date": "2026-10-24"
+  },
+  {
+    "well_name": "Goulds 18GS15412 1.5 HP 18 GPM High-Flow Well Pump",
+    "slug": "goulds-18gs15412-15-hp-18-gpm-high-flow-well-pump-tdh-tank-wire-calculator",
+    "title": "Goulds 18GS15412 1.5 HP 18 GPM High-Flow Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (352 ft TDH), pressure tank drawdown (23.2 gal on 86-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Goulds 18GS15412 1.5 HP 18 GPM High-Flow Well Pump.",
+    "hp": 1.5,
+    "gpm": 18,
+    "tdh_ft": 352,
+    "tank_gal": 86,
+    "date": "2026-10-24"
+  }
+]
