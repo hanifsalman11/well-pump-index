@@ -31,5 +31,38 @@
     "tdh_ft": 352,
     "tank_gal": 86,
     "date": "2026-10-24"
+  },
+  {
+    "well_name": "Grundfos 10SQ07-240 3/4 HP 3-Inch Constant Speed",
+    "slug": "grundfos-10sq07-240-34-hp-3-inch-constant-speed-tdh-tank-wire-calculator",
+    "title": "Grundfos 10SQ07-240 3/4 HP 3-Inch Constant Speed TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Grundfos 10SQ07-240 3/4 HP 3-Inch Constant Speed.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Grundfos Scala2 & SQE 10SQE10-290 Constant Pressure",
+    "slug": "grundfos-scala2-sqe-10sqe10-290-constant-pressure-tdh-tank-wire-calculator",
+    "title": "Grundfos Scala2 & SQE 10SQE10-290 Constant Pressure TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (384 ft TDH), pressure tank drawdown (5.4 gal on 20-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Grundfos Scala2 & SQE 10SQE10-290 Constant Pressure.",
+    "hp": 1.0,
+    "gpm": 10,
+    "tdh_ft": 384,
+    "tank_gal": 20,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Franklin Electric J-Class 1/2 HP 10 GPM Submersible",
+    "slug": "franklin-electric-j-class-12-hp-10-gpm-submersible-tdh-tank-wire-calculator",
+    "title": "Franklin Electric J-Class 1/2 HP 10 GPM Submersible TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (223 ft TDH), pressure tank drawdown (9.9 gal on 32-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Franklin Electric J-Class 1/2 HP 10 GPM Submersible.",
+    "hp": 0.5,
+    "gpm": 10,
+    "tdh_ft": 223,
+    "tank_gal": 32,
+    "date": "2026-10-25"
   }
 ]
