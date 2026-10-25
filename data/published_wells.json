@@ -130,5 +130,38 @@
     "tdh_ft": 223,
     "tank_gal": 20,
     "date": "2026-10-25"
+  },
+  {
+    "well_name": "Amtrol Well-X-Trol WX-205 (34 Gallon) Pressure Tank",
+    "slug": "amtrol-well-x-trol-wx-205-34-gallon-pressure-tank-tdh-tank-wire-calculator",
+    "title": "Amtrol Well-X-Trol WX-205 (34 Gallon) Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (9.2 gal on 34-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Amtrol Well-X-Trol WX-205 (34 Gallon) Pressure Tank.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 288,
+    "tank_gal": 34,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Amtrol Well-X-Trol WX-250 (44 Gallon) Pressure Tank",
+    "slug": "amtrol-well-x-trol-wx-250-44-gallon-pressure-tank-tdh-tank-wire-calculator",
+    "title": "Amtrol Well-X-Trol WX-250 (44 Gallon) Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Amtrol Well-X-Trol WX-250 (44 Gallon) Pressure Tank.",
+    "hp": 1.0,
+    "gpm": 12,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Amtrol Well-X-Trol WX-252 (62 Gallon) Pressure Tank",
+    "slug": "amtrol-well-x-trol-wx-252-62-gallon-pressure-tank-tdh-tank-wire-calculator",
+    "title": "Amtrol Well-X-Trol WX-252 (62 Gallon) Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (352 ft TDH), pressure tank drawdown (16.7 gal on 62-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Amtrol Well-X-Trol WX-252 (62 Gallon) Pressure Tank.",
+    "hp": 1.5,
+    "gpm": 16,
+    "tdh_ft": 352,
+    "tank_gal": 62,
+    "date": "2026-10-25"
   }
 ]
