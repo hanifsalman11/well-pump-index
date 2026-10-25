@@ -97,5 +97,38 @@
     "tdh_ft": 212,
     "tank_gal": 32,
     "date": "2026-10-25"
+  },
+  {
+    "well_name": "Red Lion RL12G07-2W2V 3/4 HP 12 GPM 2-Wire 230V",
+    "slug": "red-lion-rl12g07-2w2v-34-hp-12-gpm-2-wire-230v-tdh-tank-wire-calculator",
+    "title": "Red Lion RL12G07-2W2V 3/4 HP 12 GPM 2-Wire 230V TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Red Lion RL12G07-2W2V 3/4 HP 12 GPM 2-Wire 230V.",
+    "hp": 0.75,
+    "gpm": 12,
+    "tdh_ft": 288,
+    "tank_gal": 44,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Red Lion RL12G10-3W2V 1.0 HP 12 GPM 3-Wire w/ Box",
+    "slug": "red-lion-rl12g10-3w2v-10-hp-12-gpm-3-wire-w-box-tdh-tank-wire-calculator",
+    "title": "Red Lion RL12G10-3W2V 1.0 HP 12 GPM 3-Wire w/ Box TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (373 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Red Lion RL12G10-3W2V 1.0 HP 12 GPM 3-Wire w/ Box.",
+    "hp": 1.0,
+    "gpm": 12,
+    "tdh_ft": 373,
+    "tank_gal": 44,
+    "date": "2026-10-25"
+  },
+  {
+    "well_name": "Amtrol Well-X-Trol WX-202 (20 Gallon) Pressure Tank",
+    "slug": "amtrol-well-x-trol-wx-202-20-gallon-pressure-tank-tdh-tank-wire-calculator",
+    "title": "Amtrol Well-X-Trol WX-202 (20 Gallon) Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (223 ft TDH), pressure tank drawdown (6.2 gal on 20-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Amtrol Well-X-Trol WX-202 (20 Gallon) Pressure Tank.",
+    "hp": 0.5,
+    "gpm": 7,
+    "tdh_ft": 223,
+    "tank_gal": 20,
+    "date": "2026-10-25"
   }
 ]
