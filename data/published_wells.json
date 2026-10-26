@@ -163,5 +163,38 @@
     "tdh_ft": 352,
     "tank_gal": 62,
     "date": "2026-10-25"
+  },
+  {
+    "well_name": "Water Worker HT-44B (44 Gallon) Vertical Well Tank",
+    "slug": "water-worker-ht-44b-44-gallon-vertical-well-tank-tdh-tank-wire-calculator",
+    "title": "Water Worker HT-44B (44 Gallon) Vertical Well Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (309 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Water Worker HT-44B (44 Gallon) Vertical Well Tank.",
+    "hp": 0.75,
+    "gpm": 12,
+    "tdh_ft": 309,
+    "tank_gal": 44,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "Water Worker HT-86B (86 Gallon) Large Well Tank",
+    "slug": "water-worker-ht-86b-86-gallon-large-well-tank-tdh-tank-wire-calculator",
+    "title": "Water Worker HT-86B (86 Gallon) Large Well Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (384 ft TDH), pressure tank drawdown (23.2 gal on 86-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for Water Worker HT-86B (86 Gallon) Large Well Tank.",
+    "hp": 1.5,
+    "gpm": 20,
+    "tdh_ft": 384,
+    "tank_gal": 86,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "Hallmark Industries MA0414X-7A 1.0 HP 230V Stainless",
+    "slug": "hallmark-industries-ma0414x-7a-10-hp-230v-stainless-tdh-tank-wire-calculator",
+    "title": "Hallmark Industries MA0414X-7A 1.0 HP 230V Stainless TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Hallmark Industries MA0414X-7A 1.0 HP 230V Stainless.",
+    "hp": 1.0,
+    "gpm": 13,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-26"
   }
 ]
