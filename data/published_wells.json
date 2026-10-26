@@ -196,5 +196,38 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-26"
+  },
+  {
+    "well_name": "VEVOR 1.5 HP 37 GPM 230V Stainless Deep Well Pump",
+    "slug": "vevor-15-hp-37-gpm-230v-stainless-deep-well-pump-tdh-tank-wire-calculator",
+    "title": "VEVOR 1.5 HP 37 GPM 230V Stainless Deep Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (352 ft TDH), pressure tank drawdown (23.2 gal on 86-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for VEVOR 1.5 HP 37 GPM 230V Stainless Deep Well Pump.",
+    "hp": 1.5,
+    "gpm": 18,
+    "tdh_ft": 352,
+    "tank_gal": 86,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "100-Foot Shallow Rock Well (3-Bedroom Home)",
+    "slug": "100-foot-shallow-rock-well-3-bedroom-home-tdh-tank-wire-calculator",
+    "title": "100-Foot Shallow Rock Well (3-Bedroom Home) TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (224 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 100-Foot Shallow Rock Well (3-Bedroom Home).",
+    "hp": 0.5,
+    "gpm": 10,
+    "tdh_ft": 224,
+    "tank_gal": 44,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "150-Foot Residential Deep Well (4-Bedroom Home)",
+    "slug": "150-foot-residential-deep-well-4-bedroom-home-tdh-tank-wire-calculator",
+    "title": "150-Foot Residential Deep Well (4-Bedroom Home) TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (278 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 150-Foot Residential Deep Well (4-Bedroom Home).",
+    "hp": 0.75,
+    "gpm": 12,
+    "tdh_ft": 278,
+    "tank_gal": 44,
+    "date": "2026-10-26"
   }
 ]
