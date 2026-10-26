@@ -229,5 +229,38 @@
     "tdh_ft": 278,
     "tank_gal": 44,
     "date": "2026-10-26"
+  },
+  {
+    "well_name": "200-Foot Deep Well Submersible Pump & Wire Setup",
+    "slug": "200-foot-deep-well-submersible-pump-wire-setup-tdh-tank-wire-calculator",
+    "title": "200-Foot Deep Well Submersible Pump & Wire Setup TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 200-Foot Deep Well Submersible Pump & Wire Setup.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "250-Foot Deep Well Submersible Pump & Wire Setup",
+    "slug": "250-foot-deep-well-submersible-pump-wire-setup-tdh-tank-wire-calculator",
+    "title": "250-Foot Deep Well Submersible Pump & Wire Setup TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (384 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for 250-Foot Deep Well Submersible Pump & Wire Setup.",
+    "hp": 1.0,
+    "gpm": 10,
+    "tdh_ft": 384,
+    "tank_gal": 44,
+    "date": "2026-10-26"
+  },
+  {
+    "well_name": "300-Foot Deep Well Submersible Pump & Wire Setup",
+    "slug": "300-foot-deep-well-submersible-pump-wire-setup-tdh-tank-wire-calculator",
+    "title": "300-Foot Deep Well Submersible Pump & Wire Setup TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (436 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 300-Foot Deep Well Submersible Pump & Wire Setup.",
+    "hp": 1.5,
+    "gpm": 10,
+    "tdh_ft": 436,
+    "tank_gal": 44,
+    "date": "2026-10-26"
   }
 ]
