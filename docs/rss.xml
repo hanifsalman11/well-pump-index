@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>150 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/150-ft-well-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/150-ft-well-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (278 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 150 Ft Well.</description>
+    </item>
+    <item>
+      <title>500 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/500-ft-well-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/500-ft-well-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (648 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 500 Ft Well.</description>
+    </item>
+    <item>
+      <title>100 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/100-ft-well-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/100-ft-well-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (224 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 100 Ft Well.</description>
+    </item>
+    <item>
       <title>400 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/400-ft-well-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/400-ft-well-tdh-tank-wire-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/franklin-electric-schaefer-10-hp-15-gpm-230v-pump-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/franklin-electric-schaefer-10-hp-15-gpm-230v-pump-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (16.7 gal on 62-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Franklin Electric Schaefer 1.0 HP 15 GPM 230V Pump.</description>
-    </item>
-    <item>
-      <title>Franklin Electric J-Class 1/2 HP 10 GPM Submersible TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/franklin-electric-j-class-12-hp-10-gpm-submersible-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/franklin-electric-j-class-12-hp-10-gpm-submersible-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (223 ft TDH), pressure tank drawdown (9.9 gal on 32-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Franklin Electric J-Class 1/2 HP 10 GPM Submersible.</description>
-    </item>
-    <item>
-      <title>Grundfos Scala2 & SQE 10SQE10-290 Constant Pressure TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/grundfos-scala2-sqe-10sqe10-290-constant-pressure-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/grundfos-scala2-sqe-10sqe10-290-constant-pressure-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (384 ft TDH), pressure tank drawdown (5.4 gal on 20-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Grundfos Scala2 & SQE 10SQE10-290 Constant Pressure.</description>
-    </item>
-    <item>
-      <title>Grundfos 10SQ07-240 3/4 HP 3-Inch Constant Speed TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/grundfos-10sq07-240-34-hp-3-inch-constant-speed-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/grundfos-10sq07-240-34-hp-3-inch-constant-speed-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Grundfos 10SQ07-240 3/4 HP 3-Inch Constant Speed.</description>
     </item>
   </channel>
 </rss>
