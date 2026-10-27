@@ -295,5 +295,38 @@
     "tdh_ft": 164,
     "tank_gal": 32,
     "date": "2026-10-27"
+  },
+  {
+    "well_name": "1.0 HP Cast Iron Shallow/Deep Well Jet Pump",
+    "slug": "10-hp-cast-iron-shallowdeep-well-jet-pump-tdh-tank-wire-calculator",
+    "title": "1.0 HP Cast Iron Shallow/Deep Well Jet Pump TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (180 ft TDH), pressure tank drawdown (13.6 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 1.0 HP Cast Iron Shallow/Deep Well Jet Pump.",
+    "hp": 1.0,
+    "gpm": 10,
+    "tdh_ft": 180,
+    "tank_gal": 44,
+    "date": "2026-10-27"
+  },
+  {
+    "well_name": "Cycle Stop Valve CSV1A Constant Pressure Well System",
+    "slug": "cycle-stop-valve-csv1a-constant-pressure-well-system-tdh-tank-wire-calculator",
+    "title": "Cycle Stop Valve CSV1A Constant Pressure Well System TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (309 ft TDH), pressure tank drawdown (5.4 gal on 20-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Cycle Stop Valve CSV1A Constant Pressure Well System.",
+    "hp": 1.0,
+    "gpm": 12,
+    "tdh_ft": 309,
+    "tank_gal": 20,
+    "date": "2026-10-27"
+  },
+  {
+    "well_name": "Off-Grid 24V/48V Solar DC Submersible Well Pump",
+    "slug": "off-grid-24v48v-solar-dc-submersible-well-pump-tdh-tank-wire-calculator",
+    "title": "Off-Grid 24V/48V Solar DC Submersible Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (9.2 gal on 34-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Off-Grid 24V/48V Solar DC Submersible Well Pump.",
+    "hp": 0.75,
+    "gpm": 6,
+    "tdh_ft": 288,
+    "tank_gal": 34,
+    "date": "2026-10-27"
   }
 ]
