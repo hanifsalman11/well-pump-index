@@ -262,5 +262,38 @@
     "tdh_ft": 436,
     "tank_gal": 44,
     "date": "2026-10-26"
+  },
+  {
+    "well_name": "400-Foot Deep Agricultural & Homestead Well Setup",
+    "slug": "400-foot-deep-agricultural-homestead-well-setup-tdh-tank-wire-calculator",
+    "title": "400-Foot Deep Agricultural & Homestead Well Setup TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (542 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 400-Foot Deep Agricultural & Homestead Well Setup.",
+    "hp": 2.0,
+    "gpm": 10,
+    "tdh_ft": 542,
+    "tank_gal": 44,
+    "date": "2026-10-27"
+  },
+  {
+    "well_name": "500-Foot Ultra-Deep Bedrock Well Pump Setup",
+    "slug": "500-foot-ultra-deep-bedrock-well-pump-setup-tdh-tank-wire-calculator",
+    "title": "500-Foot Ultra-Deep Bedrock Well Pump Setup TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (648 ft TDH), pressure tank drawdown (9.2 gal on 34-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 500-Foot Ultra-Deep Bedrock Well Pump Setup.",
+    "hp": 2.0,
+    "gpm": 7,
+    "tdh_ft": 648,
+    "tank_gal": 34,
+    "date": "2026-10-27"
+  },
+  {
+    "well_name": "1/2 HP Convertible Deep Well Jet Pump (25–80 Ft)",
+    "slug": "12-hp-convertible-deep-well-jet-pump-2580-ft-tdh-tank-wire-calculator",
+    "title": "1/2 HP Convertible Deep Well Jet Pump (25–80 Ft) TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (164 ft TDH), pressure tank drawdown (9.9 gal on 32-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 1/2 HP Convertible Deep Well Jet Pump (25–80 Ft).",
+    "hp": 0.5,
+    "gpm": 8,
+    "tdh_ft": 164,
+    "tank_gal": 32,
+    "date": "2026-10-27"
   }
 ]
