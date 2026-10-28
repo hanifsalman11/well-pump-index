@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Well Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/well-pressure-tank-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/well-pressure-tank-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Well Pressure Tank.</description>
+    </item>
+    <item>
+      <title>4 Bedroom House TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/4-bedroom-house-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/4-bedroom-house-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 4 Bedroom House.</description>
+    </item>
+    <item>
+      <title>Irrigation System TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/irrigation-system-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/irrigation-system-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Irrigation System.</description>
+    </item>
+    <item>
       <title>Irrigation TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/irrigation-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/irrigation-tdh-tank-wire-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/amtrol-well-x-trol-wx-205-34-gallon-pressure-tank-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/amtrol-well-x-trol-wx-205-34-gallon-pressure-tank-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (9.2 gal on 34-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Amtrol Well-X-Trol WX-205 (34 Gallon) Pressure Tank.</description>
-    </item>
-    <item>
-      <title>Amtrol Well-X-Trol WX-202 (20 Gallon) Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/amtrol-well-x-trol-wx-202-20-gallon-pressure-tank-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/amtrol-well-x-trol-wx-202-20-gallon-pressure-tank-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (223 ft TDH), pressure tank drawdown (6.2 gal on 20-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Amtrol Well-X-Trol WX-202 (20 Gallon) Pressure Tank.</description>
-    </item>
-    <item>
-      <title>Red Lion RL12G10-3W2V 1.0 HP 12 GPM 3-Wire w/ Box TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/red-lion-rl12g10-3w2v-10-hp-12-gpm-3-wire-w-box-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/red-lion-rl12g10-3w2v-10-hp-12-gpm-3-wire-w-box-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (373 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for Red Lion RL12G10-3W2V 1.0 HP 12 GPM 3-Wire w/ Box.</description>
-    </item>
-    <item>
-      <title>Red Lion RL12G07-2W2V 3/4 HP 12 GPM 2-Wire 230V TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/red-lion-rl12g07-2w2v-34-hp-12-gpm-2-wire-230v-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/red-lion-rl12g07-2w2v-34-hp-12-gpm-2-wire-230v-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Red Lion RL12G07-2W2V 3/4 HP 12 GPM 2-Wire 230V.</description>
     </item>
   </channel>
 </rss>

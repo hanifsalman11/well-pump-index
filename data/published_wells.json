@@ -427,5 +427,38 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-28"
+  },
+  {
+    "well_name": "Irrigation System",
+    "slug": "irrigation-system-tdh-tank-wire-calculator",
+    "title": "Irrigation System TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Irrigation System.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
+  },
+  {
+    "well_name": "4 Bedroom House",
+    "slug": "4-bedroom-house-tdh-tank-wire-calculator",
+    "title": "4 Bedroom House TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 4 Bedroom House.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
+  },
+  {
+    "well_name": "Well Pressure Tank",
+    "slug": "well-pressure-tank-tdh-tank-wire-calculator",
+    "title": "Well Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Well Pressure Tank.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
   }
 ]
