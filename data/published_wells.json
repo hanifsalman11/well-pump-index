@@ -394,5 +394,38 @@
     "tdh_ft": 278,
     "tank_gal": 44,
     "date": "2026-10-27"
+  },
+  {
+    "well_name": "House",
+    "slug": "house-tdh-tank-wire-calculator",
+    "title": "House TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for House.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
+  },
+  {
+    "well_name": "4 Inch Casing",
+    "slug": "4-inch-casing-tdh-tank-wire-calculator",
+    "title": "4 Inch Casing TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 4 Inch Casing.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
+  },
+  {
+    "well_name": "Irrigation",
+    "slug": "irrigation-tdh-tank-wire-calculator",
+    "title": "Irrigation TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Irrigation.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-28"
   }
 ]
