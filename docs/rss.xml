@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Submersible Well Pump Breaker TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/submersible-well-pump-breaker-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/submersible-well-pump-breaker-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Submersible Well Pump Breaker.</description>
+    </item>
+    <item>
+      <title>Water Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/water-well-pump-wire-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/water-well-pump-wire-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Water Well Pump Wire.</description>
+    </item>
+    <item>
+      <title>Deep Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/deep-well-pump-wire-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/deep-well-pump-wire-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Deep Well Pump Wire.</description>
+    </item>
+    <item>
       <title>Submersible Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/submersible-well-pump-wire-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/submersible-well-pump-wire-tdh-tank-wire-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/200-foot-deep-well-submersible-pump-wire-setup-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/200-foot-deep-well-submersible-pump-wire-setup-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 200-Foot Deep Well Submersible Pump & Wire Setup.</description>
-    </item>
-    <item>
-      <title>150-Foot Residential Deep Well (4-Bedroom Home) TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/150-foot-residential-deep-well-4-bedroom-home-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/150-foot-residential-deep-well-4-bedroom-home-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (278 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 150-Foot Residential Deep Well (4-Bedroom Home).</description>
-    </item>
-    <item>
-      <title>100-Foot Shallow Rock Well (3-Bedroom Home) TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/100-foot-shallow-rock-well-3-bedroom-home-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/100-foot-shallow-rock-well-3-bedroom-home-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (224 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 100-Foot Shallow Rock Well (3-Bedroom Home).</description>
-    </item>
-    <item>
-      <title>VEVOR 1.5 HP 37 GPM 230V Stainless Deep Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/vevor-15-hp-37-gpm-230v-stainless-deep-well-pump-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/vevor-15-hp-37-gpm-230v-stainless-deep-well-pump-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (352 ft TDH), pressure tank drawdown (23.2 gal on 86-gal tank), and 230V submersible wire gauge (10 AWG Submersible Copper) for VEVOR 1.5 HP 37 GPM 230V Stainless Deep Well Pump.</description>
     </item>
   </channel>
 </rss>

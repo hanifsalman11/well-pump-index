@@ -526,5 +526,38 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-29"
+  },
+  {
+    "well_name": "Deep Well Pump Wire",
+    "slug": "deep-well-pump-wire-tdh-tank-wire-calculator",
+    "title": "Deep Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Deep Well Pump Wire.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
+  },
+  {
+    "well_name": "Water Well Pump Wire",
+    "slug": "water-well-pump-wire-tdh-tank-wire-calculator",
+    "title": "Water Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Water Well Pump Wire.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
+  },
+  {
+    "well_name": "Submersible Well Pump Breaker",
+    "slug": "submersible-well-pump-breaker-tdh-tank-wire-calculator",
+    "title": "Submersible Well Pump Breaker TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Submersible Well Pump Breaker.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
   }
 ]
