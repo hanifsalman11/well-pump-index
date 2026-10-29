@@ -493,5 +493,38 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-28"
+  },
+  {
+    "well_name": "What  Well Pressure Tank Do I Need",
+    "slug": "what-well-pressure-tank-do-i-need-tdh-tank-wire-calculator",
+    "title": "What  Well Pressure Tank Do I Need TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for What  Well Pressure Tank Do I Need.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
+  },
+  {
+    "well_name": "What Is The Best  Pressure Tank  A Well",
+    "slug": "what-is-the-best-pressure-tank-a-well-tdh-tank-wire-calculator",
+    "title": "What Is The Best  Pressure Tank  A Well TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for What Is The Best  Pressure Tank  A Well.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
+  },
+  {
+    "well_name": "Submersible Well Pump Wire",
+    "slug": "submersible-well-pump-wire-tdh-tank-wire-calculator",
+    "title": "Submersible Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Submersible Well Pump Wire.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-29"
   }
 ]
