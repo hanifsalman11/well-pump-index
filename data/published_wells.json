@@ -625,5 +625,38 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-30"
+  },
+  {
+    "well_name": "Wx 202",
+    "slug": "wx-202-tdh-tank-wire-calculator",
+    "title": "Wx 202 TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Wx 202.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-30"
+  },
+  {
+    "well_name": "Tanks",
+    "slug": "tanks-tdh-tank-wire-calculator",
+    "title": "Tanks TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Tanks.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-30"
+  },
+  {
+    "well_name": "Wx 203",
+    "slug": "wx-203-tdh-tank-wire-calculator",
+    "title": "Wx 203 TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Wx 203.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-30"
   }
 ]

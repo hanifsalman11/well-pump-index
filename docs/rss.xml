@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Wx 203 TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/wx-203-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/wx-203-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Wx 203.</description>
+    </item>
+    <item>
+      <title>Tanks TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/tanks-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/tanks-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Tanks.</description>
+    </item>
+    <item>
+      <title>Wx 202 TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/wx-202-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/wx-202-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Wx 202.</description>
+    </item>
+    <item>
       <title>Pressure Tank TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/pressure-tank-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/pressure-tank-tdh-tank-wire-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/300-ft-well-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/300-ft-well-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (436 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 300 Ft Well.</description>
-    </item>
-    <item>
-      <title>Off-Grid 24V/48V Solar DC Submersible Well Pump TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/off-grid-24v48v-solar-dc-submersible-well-pump-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/off-grid-24v48v-solar-dc-submersible-well-pump-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (288 ft TDH), pressure tank drawdown (9.2 gal on 34-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Off-Grid 24V/48V Solar DC Submersible Well Pump.</description>
-    </item>
-    <item>
-      <title>Cycle Stop Valve CSV1A Constant Pressure Well System TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/cycle-stop-valve-csv1a-constant-pressure-well-system-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/cycle-stop-valve-csv1a-constant-pressure-well-system-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (309 ft TDH), pressure tank drawdown (5.4 gal on 20-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Cycle Stop Valve CSV1A Constant Pressure Well System.</description>
-    </item>
-    <item>
-      <title>1.0 HP Cast Iron Shallow/Deep Well Jet Pump TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/10-hp-cast-iron-shallowdeep-well-jet-pump-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/10-hp-cast-iron-shallowdeep-well-jet-pump-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (180 ft TDH), pressure tank drawdown (13.6 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 1.0 HP Cast Iron Shallow/Deep Well Jet Pump.</description>
     </item>
   </channel>
 </rss>
