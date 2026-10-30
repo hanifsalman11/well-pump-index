@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+  <meta name="description" content="Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Well Pump Wire.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/well-pump-index/well-pump-wire-tdh-tank-wire-calculator.html">
+  <meta property="og:title" content="Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)">
+  <meta property="og:description" content="Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Well Pump Wire.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://hanifsalman11.github.io/well-pump-index/well-pump-wire-tdh-tank-wire-calculator.html">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SoftwareApplication", "name": "Well Pump Wire TDH, Pressure Tank & Wire Calculator", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Web Browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I calculate Total Dynamic Head (TDH) for Well Pump Wire?", "acceptedAnswer": {"@type": "Answer", "text": "Add your pumping water depth (200 ft), vertical elevation to the pressure tank, pipe friction loss (~15.0 ft), and household operating pressure multiplied by 2.31 (50 PSI \u00d7 2.31 = 115.5 ft). That gives a Total Dynamic Head of 330 feet."}}, {"@type": "Question", "name": "What size pressure tank do I need for a 10 GPM well pump?", "acceptedAnswer": {"@type": "Answer", "text": "To guarantee a minimum 1-minute pump run time (10 gallons of usable drawdown), divide 10 GPM by the 40/60 PSI drawdown factor (0.27). That requires at least a 44-gallon total volume diaphragm tank providing 11.9 gallons of drawdown."}}, {"@type": "Question", "name": "What air pressure should be in my well tank for a 40/60 PSI switch?", "acceptedAnswer": {"@type": "Answer", "text": "With all water drained from the tank and zero water pressure on the gauge, inflate the top Schrader air valve to 38 PSI (2 PSI below the 40 PSI cut-in pressure)."}}]}]}</script>
+</head>
+<body class="bg-slate-950 text-slate-100 antialiased min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <a href="index.html" class="text-lg font-black tracking-tight text-white flex items-center gap-2">
+        <span class="bg-cyan-500 text-slate-950 px-2 py-0.5 rounded font-black">WELL</span>PumpIndex
+      </a>
+      <a href="https://www.amazon.com/s?k=4%2BInch%2BStainless%2BSteel%2BSubmersible%2BDeep%2BWell%2BPump%2B230V%2BPressure%2BTank&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Deep Well Pumps & Pressure Tanks on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-10 flex-1 w-full">
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center gap-2.5 mb-3">
+        <span class="text-xs font-extrabold uppercase tracking-widest bg-cyan-500 text-slate-950 px-3 py-1 rounded-full">0.75 HP | 10 GPM | 330 ft TDH</span>
+        <span class="text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-3 py-1 rounded-full">Tank: 44 Gal (11.9 Gal Drawdown)</span>
+        <span class="text-xs font-semibold bg-slate-800 text-slate-300 px-3 py-1 rounded-full">40/60 PSI (Pre-Charge: 38 PSI) | 12 AWG Submersible Copper</span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-black text-white leading-tight">Well Pump Wire TDH, Pressure Tank & Wire Size Calculator (2026)</h1>
+      <div class="mt-4 bg-slate-900 border-l-4 border-cyan-500 p-4 rounded-r-xl text-sm text-slate-200 leading-relaxed">
+        <strong>NGWA Hydraulic & Franklin AIM Summary:</strong> At a 200-foot pumping water depth plus 115.5 ft of household pressure head (40/60 PSI) and 15.0 ft of friction loss, Well Pump Wire operates against 330 feet of Total Dynamic Head (TDH). To deliver 10 GPM with a minimum 60-second motor cooling cycle, pair a 0.75 HP 230V submersible pump with a 44-gallon diaphragm pressure tank (11.9 gal usable drawdown, pre-charged to 38 PSI) and 12 AWG Submersible Copper cable.
+      </div>
+    </div>
+
+    <!-- INTERACTIVE TDH, PUMP HP, PRESSURE TANK & WIRE GAUGE CALCULATOR -->
+    <section class="bg-slate-900 border border-slate-800 rounded-2xl p-6 sm:p-8 mb-12 shadow-2xl">
+      <h2 class="text-xl font-extrabold text-white mb-2">Interactive Well Pump Wire TDH, Tank & Wire Calculator</h2>
+      <p class="text-xs text-slate-400 mb-6">Adjust your pumping water depth (feet), target household GPM flow rate, and pressure switch setting to compute exact Total Dynamic Head (TDH), required pump HP, tank gallon size, and 230V wire gauge.</p>
+
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div class="space-y-5">
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="depthSlider" class="text-slate-300">Pumping Water Depth in Well (Feet)</label>
+              <span class="text-cyan-400 font-bold"><span id="depthVal">200</span> ft</span>
+            </div>
+            <input id="depthSlider" type="range" min="40" max="550" step="10" value="200" class="w-full accent-cyan-500 cursor-pointer">
+          </div>
+
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="gpmSlider" class="text-slate-300">Target Household Peak Flow Rate (GPM)</label>
+              <span class="text-cyan-400 font-bold"><span id="gpmVal">10</span> GPM</span>
+            </div>
+            <input id="gpmSlider" type="range" min="5" max="25" step="1" value="10" class="w-full accent-cyan-500 cursor-pointer">
+          </div>
+
+          <div class="grid grid-cols-2 gap-3">
+            <div>
+              <label for="switchSelect" class="block text-xs font-medium text-slate-400 mb-1">Pressure Switch Setting</label>
+              <select id="switchSelect" class="w-full bg-slate-950 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-cyan-500">
+                <option value="30/50" >30/50 PSI (Pre-charge 28 PSI)</option>
+                <option value="40/60" selected>40/60 PSI (Pre-charge 38 PSI)</option>
+              </select>
+            </div>
+            <div>
+              <label for="elevSelect" class="block text-xs font-medium text-slate-400 mb-1">Hill Elevation to House</label>
+              <select id="elevSelect" class="w-full bg-slate-950 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-cyan-500">
+                <option value="10" selected>Flat Lot (+10 ft)</option>
+                <option value="35">Moderate Slope (+35 ft)</option>
+                <option value="75">Hilltop Cabin (+75 ft)</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-slate-950 border border-cyan-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-cyan-400 font-bold">Total Dynamic Head</span>
+            <div class="text-2xl sm:text-3xl font-black text-white mt-1"><span id="tdhOut">330</span> <span class="text-sm font-normal text-slate-400">ft TDH</span></div>
+            <p id="pumpSpecOut" class="text-xs text-cyan-400 font-semibold mt-1">Need 0.75 HP (10 GPM) Pump</p>
+          </div>
+
+          <div class="bg-slate-950 border border-emerald-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-emerald-400 font-bold">Tank & 230V Wire</span>
+            <div id="tankOut" class="text-xl sm:text-2xl font-black text-emerald-400 mt-1">44-Gal Tank</div>
+            <p id="wireOut" class="text-xs text-slate-300 font-semibold mt-1">Cable: 12 AWG Submersible Copper</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-6 bg-cyan-950/40 border border-cyan-500/30 rounded-xl p-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div id="wellAdviceBanner" class="text-sm text-cyan-100 font-medium"></div>
+        <a id="dynamicWellBtn" href="https://www.amazon.com/s?k=4%2BInch%2BStainless%2BSteel%2BSubmersible%2BDeep%2BWell%2BPump%2B230V%2BPressure%2BTank&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="shrink-0 bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold px-4 py-2.5 rounded-lg text-xs uppercase tracking-wider transition">
+          Shop Matched Well Pump & Tank on Amazon →
+        </a>
+      </div>
+    </section>
+
+    <!-- 4-CARD HARDWARE BUNDLE -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">Complete Well Pump Wire Pump, Tank & Cable Hardware Kit</h2>
+        <span class="text-xs text-slate-400">NSF/ANSI-61 & Franklin AIM Rated</span>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">0.75 HP / 10 GPM Pump</span>
+              <span class="text-sm font-bold text-emerald-400">$249 - $799</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">0.75 HP 10 GPM 230V 4-Inch Stainless Steel Submersible Deep Well Pump</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">💧 Engineered withhermetically sealed stainless steel impellers and built-in check valve to overcome 330 ft of Total Dynamic Head.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=0.75+HP+10+GPM+230V+4+Inch+Stainless+Submersible+Deep+Well+Pump&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">44-Gal Pressure Tank</span>
+              <span class="text-sm font-bold text-emerald-400">$229 - $599</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">44-Gallon Pre-Charged Vertical Diaphragm Well Pressure Tank (11.9 Gal Drawdown)</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">💧 Stores 11.9 gallons of pressurized water between 40/60 PSI cycles so the submersible motor runs at least 1 full minute per start.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=44+Gallon+Well+Pressure+Tank+Diaphragm+Vertical&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">Franklin AIM Submersible Wire</span>
+              <span class="text-sm font-bold text-emerald-400">$139 - $489</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">250ft Twisted/Flat Jacketed 12 AWG Submersible Copper 3-Wire + Ground Submersible Pump Cable</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">💧 Sized per Franklin Electric AIM tables to keep voltage drop below 5% over a 250 ft submerged run.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=12+AWG+Submersible+Copper+Submersible+Well+Pump+Wire+3+Wire+With+Ground&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-slate-900 border border-slate-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">Brass Tank Tee & Switch Kit</span>
+              <span class="text-sm font-bold text-emerald-400">$59 - $129</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">11-Inch Solid Lead-Free Brass Tank Tee Kit + Square D 40/60 PSI Low-Pressure Cut-Off Switch</h3>
+            <p class="text-xs text-slate-400 mt-2 leading-relaxed">💧 Includes 100 PSI pressure gauge, 75 PSI brass pressure relief valve, boiler drain, and dry-run protection switch.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Brass+Well+Tank+Tee+Kit+Square+D+40%2F60+Pressure+Switch&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div></div>
+    </section>
+
+    <!-- WELL DEPTH, TDH & WIRE MATRIX TABLE -->
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-4">Deep Well Depth, TDH, Pump HP, Pressure Tank & Wire Chart (40/60 PSI)</h2>
+      <div class="overflow-x-auto bg-slate-900 border border-slate-800 rounded-xl">
+        <table class="w-full text-left border-collapse text-sm">
+          <thead>
+            <tr class="border-b border-slate-800 bg-slate-950/60 text-slate-400 uppercase text-xs">
+              <th class="py-3.5 px-4">Well Depth (TDH)</th>
+              <th class="py-3.5 px-4 text-cyan-400">Submersible Pump Spec</th>
+              <th class="py-3.5 px-4 text-emerald-400">Pressure Tank (Drawdown)</th>
+              <th class="py-3.5 px-4">230V Submersible Wire</th>
+              <th class="py-3.5 px-4">Breaker Size</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">100 ft Well (225 ft TDH)</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">1/2 HP (10 GPM)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">32–44 Gal Tank (9.9 Gal DD)</td>
+          <td class="py-3 px-4 text-slate-300">14 AWG / 12 AWG Copper</td>
+          <td class="py-3 px-4 text-xs text-slate-400">15A 2-Pole (230V)</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">175 ft Well (305 ft TDH)</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">3/4 HP (10 GPM)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">44 Gal Tank (11.9 Gal DD)</td>
+          <td class="py-3 px-4 text-slate-300">12 AWG Submersible</td>
+          <td class="py-3 px-4 text-xs text-slate-400">15A 2-Pole (230V)</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">250 ft Well (385 ft TDH)</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">1.0 HP (10–12 GPM)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">44–62 Gal Tank (16.7 Gal DD)</td>
+          <td class="py-3 px-4 text-slate-300">10 AWG Submersible</td>
+          <td class="py-3 px-4 text-xs text-slate-400">20A 2-Pole (230V)</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">350 ft Well (490 ft TDH)</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">1.5 HP (10–15 GPM)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">62–86 Gal Tank (23.2 Gal DD)</td>
+          <td class="py-3 px-4 text-slate-300">10 AWG / 8 AWG Copper</td>
+          <td class="py-3 px-4 text-xs text-slate-400">20A 2-Pole (230V)</td>
+        </tr>
+        <tr class="border-b border-slate-800 hover:bg-slate-800/40">
+          <td class="py-3 px-4 font-bold text-white">450 ft Well (595 ft TDH)</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">2.0 HP (10–12 GPM)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">86 Gal Tank (23.2 Gal DD)</td>
+          <td class="py-3 px-4 text-slate-300">8 AWG Submersible</td>
+          <td class="py-3 px-4 text-xs text-slate-400">25A 2-Pole (230V)</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- NGWA INSTALLATION CHECKLIST -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">NGWA Submersible Pump & Pressure Tank Setup Checklist</h2>
+        <span id="wellBadge" class="text-xs font-bold bg-slate-800 text-cyan-400 px-3 py-1 rounded-full">0 / 4 Completed</span>
+      </div>
+      <div class="space-y-3">
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer well-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>NGWA Step 1:</strong> Set your empty pressure tank's Schrader air valve to exactly 2 PSI below the pressure switch cut-in setting (38 PSI for a 40/60 PSI switch) BEFORE turning on the pump.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer well-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>NGWA Step 2:</strong> Install a secondary inline spring-loaded Solid Brass Check Valve every 200 feet of drop pipe (plus one at the pump discharge) to prevent water hammer and backspin.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer well-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>NGWA Step 3:</strong> Clamp a rubber Two-Piece Torque Arrestor just above the submersible pump and use waterproof heat-shrink butt splice kits on all submerged wire joints.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-slate-900 border border-slate-800 rounded-xl p-4 cursor-pointer hover:border-slate-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer well-check">
+          <span class="text-sm text-slate-200 leading-relaxed"><strong>NGWA Step 4:</strong> Never install a check valve between the well pressure tank and the pressure switch tee; doing so traps pressure and causes rapid motor-destroying short-cycling.</span>
+        </label></div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-5">Frequently Asked Questions (Well Pump Wire)</h2>
+      <div class="space-y-4"><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How do I calculate Total Dynamic Head (TDH) for Well Pump Wire?</h3><p class='text-sm text-slate-300 leading-relaxed'>Add your pumping water depth (200 ft), vertical elevation to the pressure tank, pipe friction loss (~15.0 ft), and household operating pressure multiplied by 2.31 (50 PSI × 2.31 = 115.5 ft). That gives a Total Dynamic Head of 330 feet.</p></div><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>What size pressure tank do I need for a 10 GPM well pump?</h3><p class='text-sm text-slate-300 leading-relaxed'>To guarantee a minimum 1-minute pump run time (10 gallons of usable drawdown), divide 10 GPM by the 40/60 PSI drawdown factor (0.27). That requires at least a 44-gallon total volume diaphragm tank providing 11.9 gallons of drawdown.</p></div><div class='bg-slate-900 border border-slate-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>What air pressure should be in my well tank for a 40/60 PSI switch?</h3><p class='text-sm text-slate-300 leading-relaxed'>With all water drained from the tank and zero water pressure on the gauge, inflate the top Schrader air valve to 38 PSI (2 PSI below the 40 PSI cut-in pressure).</p></div></div>
+    </section>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500 px-4">
+    <p>© 2026 WellPumpIndex. Independent Ground Water Hydraulics & Submersible Pump Sizing Database. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const amzDomain = "www.amazon.com";
+    const amzTag = "salmanrevie04-20";
+
+    const depthSlider = document.getElementById('depthSlider');
+    const gpmSlider = document.getElementById('gpmSlider');
+    const switchSelect = document.getElementById('switchSelect');
+    const elevSelect = document.getElementById('elevSelect');
+    const depthVal = document.getElementById('depthVal');
+    const gpmVal = document.getElementById('gpmVal');
+    const tdhOut = document.getElementById('tdhOut');
+    const pumpSpecOut = document.getElementById('pumpSpecOut');
+    const tankOut = document.getElementById('tankOut');
+    const wireOut = document.getElementById('wireOut');
+    const wellAdviceBanner = document.getElementById('wellAdviceBanner');
+    const dynamicWellBtn = document.getElementById('dynamicWellBtn');
+
+    function recalculateWell() {
+      const depth = parseInt(depthSlider.value, 10);
+      const gpm = parseInt(gpmSlider.value, 10);
+      const sw = switchSelect.value;
+      const elev = parseInt(elevSelect.value, 10);
+
+      depthVal.textContent = depth;
+      gpmVal.textContent = gpm;
+
+      const avgPsi = sw === '30/50' ? 40 : 50;
+      const prechargePsi = sw === '30/50' ? 28 : 38;
+      const ddFactor = sw === '30/50' ? 0.31 : 0.27;
+
+      const pressureHeadFt = avgPsi * 2.31;
+      const frictionFt = (depth + elev + 40) * 0.06;
+      const totalTdh = Math.round(depth + elev + pressureHeadFt + frictionFt);
+
+      let recHp = "1/2 HP";
+      let hpNum = 0.5;
+      if (totalTdh <= 230 && gpm <= 10) {
+        recHp = "1/2 HP";
+        hpNum = 0.5;
+      } else if (totalTdh <= 320 && gpm <= 12) {
+        recHp = "3/4 HP";
+        hpNum = 0.75;
+      } else if (totalTdh <= 410 && gpm <= 15) {
+        recHp = "1.0 HP";
+        hpNum = 1.0;
+      } else if (totalTdh <= 520) {
+        recHp = "1.5 HP";
+        hpNum = 1.5;
+      } else {
+        recHp = "2.0 HP";
+        hpNum = 2.0;
+      }
+
+      const minTotalTankGal = gpm / ddFactor;
+      let stdTankGal = 20;
+      if (minTotalTankGal <= 22) stdTankGal = 20;
+      else if (minTotalTankGal <= 35) stdTankGal = 34;
+      else if (minTotalTankGal <= 46) stdTankGal = 44;
+      else if (minTotalTankGal <= 65) stdTankGal = 62;
+      else stdTankGal = 86;
+
+      const cableLen = depth + 50;
+      let awgSpec = "12/3 AWG Copper";
+      if (hpNum <= 0.75) awgSpec = cableLen <= 300 ? "12/3 AWG Submersible" : "10/3 AWG Submersible";
+      else if (hpNum <= 1.0) awgSpec = cableLen <= 250 ? "12/3 AWG Submersible" : "10/3 AWG Submersible";
+      else awgSpec = cableLen <= 280 ? "10/3 AWG Submersible" : "8/3 AWG Submersible";
+
+      tdhOut.textContent = totalTdh;
+      pumpSpecOut.textContent = `Match: ${recHp} (${gpm} GPM Series)`;
+      tankOut.textContent = `${stdTankGal}-Gal Tank (Pre: ${prechargePsi} PSI)`;
+      wireOut.textContent = `Cable: ${awgSpec}`;
+
+      wellAdviceBanner.innerHTML = `💧 <strong>NGWA System Spec:</strong> For <strong>${totalTdh} ft TDH</strong>, install a <strong>${recHp} ${gpm} GPM 230V Stainless Submersible Pump</strong>, a <strong>${stdTankGal}-Gallon Diaphragm Tank</strong> (set to ${prechargePsi} PSI air charge), and <strong>${awgSpec} wire</strong>.`;
+      dynamicWellBtn.href = `https://${amzDomain}/s?k=${encodeURIComponent(recHp)}+${gpm}+GPM+230V+Stainless+Submersible+Deep+Well+Pump+${stdTankGal}+Gallon+Pressure+Tank&tag=${amzTag}`;
+    }
+
+    depthSlider.addEventListener('input', recalculateWell);
+    gpmSlider.addEventListener('input', recalculateWell);
+    switchSelect.addEventListener('change', recalculateWell);
+    elevSelect.addEventListener('change', recalculateWell);
+    recalculateWell();
+
+    const checks = document.querySelectorAll('.well-check');
+    const badge = document.getElementById('wellBadge');
+    checks.forEach(ch => {
+      ch.addEventListener('change', () => {
+        const done = Array.from(checks).filter(c => c.checked).length;
+        badge.textContent = `${done} / ${checks.length} Completed`;
+      });
+    });
+  </script>
+</body>
+</html>
