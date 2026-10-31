@@ -691,5 +691,16 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-10-30"
+  },
+  {
+    "well_name": "Warranty",
+    "slug": "warranty-tdh-tank-wire-calculator",
+    "title": "Warranty TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Warranty.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-10-31"
   }
 ]

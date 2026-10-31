@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Warranty TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/warranty-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/warranty-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for Warranty.</description>
+    </item>
+    <item>
       <title>Pressure Tank Psi TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/pressure-tank-psi-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/pressure-tank-psi-tdh-tank-wire-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/500-ft-well-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/500-ft-well-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (648 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (8 AWG Submersible Copper) for 500 Ft Well.</description>
-    </item>
-    <item>
-      <title>100 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/100-ft-well-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/100-ft-well-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (224 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 100 Ft Well.</description>
     </item>
   </channel>
 </rss>
