@@ -7,6 +7,18 @@
     <atom:link href="https://hanifsalman11.github.io/well-pump-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Wx 203 Home Depot TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/wx-203-home-depot-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/wx-203-home-depot-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (TDH), pressure tank drawdown gallons, and 230V submersible copper wire gauge for Wx 203 Home Depot.</description>
+    </item>
+    <item>
+      <title>A 600 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/well-pump-index/a-600-ft-well-tdh-tank-wire-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/well-pump-index/a-600-ft-well-tdh-tank-wire-calculator.html</guid>
+      <description>Calculate exact Total Dynamic Head (TDH), pressure tank drawdown gallons, and 230V submersible copper wire gauge for A 600 Ft Well.</description>
+    </item>
+    <item>
       <title>Two Houses TDH, Pressure Tank & Wire Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/well-pump-index/two-houses-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/two-houses-tdh-tank-wire-calculator.html</guid>
@@ -173,18 +185,6 @@
       <link>https://hanifsalman11.github.io/well-pump-index/4-inch-casing-tdh-tank-wire-calculator.html</link>
       <guid>https://hanifsalman11.github.io/well-pump-index/4-inch-casing-tdh-tank-wire-calculator.html</guid>
       <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 4 Inch Casing.</description>
-    </item>
-    <item>
-      <title>House TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/house-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/house-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (330 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for House.</description>
-    </item>
-    <item>
-      <title>150 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/well-pump-index/150-ft-well-tdh-tank-wire-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/well-pump-index/150-ft-well-tdh-tank-wire-calculator.html</guid>
-      <description>Calculate exact Total Dynamic Head (278 ft TDH), pressure tank drawdown (11.9 gal on 44-gal tank), and 230V submersible wire gauge (12 AWG Submersible Copper) for 150 Ft Well.</description>
     </item>
   </channel>
 </rss>

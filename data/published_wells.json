@@ -713,5 +713,27 @@
     "tdh_ft": 330,
     "tank_gal": 44,
     "date": "2026-11-04"
+  },
+  {
+    "well_name": "A 600 Ft Well",
+    "slug": "a-600-ft-well-tdh-tank-wire-calculator",
+    "title": "A 600 Ft Well TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (TDH), pressure tank drawdown gallons, and 230V submersible copper wire gauge for A 600 Ft Well.",
+    "hp": 1.5,
+    "gpm": 10,
+    "tdh_ft": 754,
+    "tank_gal": 44,
+    "date": "2026-11-05"
+  },
+  {
+    "well_name": "Wx 203 Home Depot",
+    "slug": "wx-203-home-depot-tdh-tank-wire-calculator",
+    "title": "Wx 203 Home Depot TDH, Pressure Tank & Wire Size Calculator (2026)",
+    "description": "Calculate exact Total Dynamic Head (TDH), pressure tank drawdown gallons, and 230V submersible copper wire gauge for Wx 203 Home Depot.",
+    "hp": 0.75,
+    "gpm": 10,
+    "tdh_ft": 330,
+    "tank_gal": 44,
+    "date": "2026-11-05"
   }
 ]
